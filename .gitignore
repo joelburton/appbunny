@@ -1,0 +1,7 @@
+/media/
+/static/
+/venv/
+/backups/
+/project/env.py
+/project/env-production.py
+*.pyc

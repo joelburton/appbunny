@@ -1,0 +1,4 @@
+-r base.txt
+django-debug-toolbar==1.2.2
+bpython==0.14.1
+sqlparse==0.1.15
